@@ -11,7 +11,7 @@ theme:
   language: nl
   name: material
   logo: assets/Claud.png
-  favicon: assets/Arnhem.png
+  favicon: assets/Claud.png
   features:
     - header.autohide
   palette: 
