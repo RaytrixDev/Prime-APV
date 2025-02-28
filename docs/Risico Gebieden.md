@@ -1,8 +1,8 @@
-## **Risicogebieden binnen Claud**
+## **Risicogebieden binnen Prime**
 
-Claud heeft meerdere risico gebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
+Prime heeft meerdere risico gebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
-De korpsleiding is bevoegd om, in samenspraak met de onderwereld en overheids coördinatie van Claud, aanvullende risicogebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale risicogebieden.
+De korpsleiding is bevoegd om, in samenspraak met de onderwereld en overheids coördinatie van Prime, aanvullende risicogebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale risicogebieden.
 
 ## **Kaart**
 ![Kaart met risicogebieden](assets/risicoGebieden.webp)

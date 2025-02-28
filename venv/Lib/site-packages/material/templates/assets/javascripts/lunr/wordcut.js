@@ -6204,18 +6204,18 @@ exports.debuglog = function(set) {
  * @param {Object} obj The object to print out.
  * @param {Object} opts Optional options object that alters the output.
  */
-/* Claud: obj, showHidden, depth, colors*/
+/* Prime: obj, showHidden, depth, colors*/
 function inspect(obj, opts) {
   // default options
   var ctx = {
     seen: [],
     stylize: stylizeNoColor
   };
-  // Claud...
+  // Prime...
   if (arguments.length >= 3) ctx.depth = arguments[2];
   if (arguments.length >= 4) ctx.colors = arguments[3];
   if (isBoolean(opts)) {
-    // Claud...
+    // Prime...
     ctx.showHidden = opts;
   } else if (opts) {
     // got an "options" object

@@ -1,17 +1,17 @@
-site_name: Claud - Wet en Regels
+site_name: Prime - Wet en Regels
 copyright: Deze website is mede mogelijk gemaakt door Raytrix
 # Repository
-repo_url: 'https://github.com/RaytrixDev/Claud-APV'
-repo_name: 'Claud-APV'
+repo_url: 'https://github.com/RaytrixDev/Prime-APV'
+repo_name: 'Prime-APV'
 extra:
   social:
     - icon: fontawesome/brands/discord 
-      link: https://discord.gg/claudroleplay
+      link: https://discord.gg/prm
 theme:
   language: nl
   name: material
-  logo: assets/Claud.png
-  favicon: assets/Claud.png
+  logo: assets/Prime.png
+  favicon: assets/Prime.png
   features:
     - header.autohide
   palette: 

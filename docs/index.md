@@ -1,8 +1,8 @@
 # Home
 
-## Wetboek en server regels Claud RP
+## Wetboek en server regels Prime RP
 
-In het menu aan de linkerkant vind je alle verschillende documenten die op Claud toepassen
+In het menu aan de linkerkant vind je alle verschillende documenten die op Prime toepassen
 
 Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
@@ -12,11 +12,11 @@ Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
 ## Officiële discord servers
 
-Claud heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
+Prime heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Claud RolePlay| Main discord server van Claud | [Invite](https://discord.gg/claudroleplay) |
-|Claud Support| Support discord server van Claud | [Invite](https://discord.gg/claudroleplay) |
-|Claud Onderwereld| Onderwereld discord server van Claud | [Invite](https://discord.gg/claudroleplay) |
-|Claud Overheid| Overheid discord server van Claud | [Invite](https://discord.gg/claudroleplay) |
+|Prime RolePlay| Main discord server van Prime | [Invite](https://discord.gg/prm) |
+|Prime Support| Support discord server van Prime | [Invite](https://discord.gg/prm) |
+|Prime Onderwereld| Onderwereld discord server van Prime | [Invite](https://discord.gg/prm) |
+|Prime Overheid| Overheid discord server van Prime | [Invite](https://discord.gg/prm) |
