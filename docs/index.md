@@ -1,8 +1,8 @@
 # Home
 
-## Wetboek en server regels Prime RP
+## Wetboek en server regels Eindhoven RP
 
-In het menu aan de linkerkant vind je alle verschillende documenten die op Prime toepassen
+In het menu aan de linkerkant vind je alle verschillende documenten die op Eindhoven toepassen
 
 Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
@@ -12,11 +12,11 @@ Zorg ervoor dat je de regels hebt gelezen wanneer je de server joint.
 
 ## Officiële discord servers
 
-Prime heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
+Eindhoven heeft enkele officiële discord servers, als een server hieronder staat. Is deze officieel goedgekeurd door het bestuur:
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Prime RolePlay| Main discord server van Prime | [Invite](https://discord.gg/prm) |
-|Prime Support| Support discord server van Prime | [Invite](https://discord.gg/prm) |
-|Prime Onderwereld| Onderwereld discord server van Prime | [Invite](https://discord.gg/prm) |
-|Prime Overheid| Overheid discord server van Prime | [Invite](https://discord.gg/prm) |
+|Eindhoven RolePlay| Main discord server van Eindhoven | [Invite](https://discord.gg/ehrp) |
+|Eindhoven Support| Support discord server van Eindhoven | [Invite](https://discord.gg/ehrp) |
+|Eindhoven Onderwereld| Onderwereld discord server van Eindhoven | [Invite](https://discord.gg/ehrp) |
+|Eindhoven Overheid| Overheid discord server van Eindhoven | [Invite](https://discord.gg/prm) |

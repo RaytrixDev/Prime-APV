@@ -1,24 +1,24 @@
-# Algemene Plaatselijke Verordening Prime
+# Algemene Plaatselijke Verordening Eindhoven
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Prime |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Prime|
-| Citeertitel               | Algemene Plaatselijke Verordening Prime|
+| Overheidsorganisatie      | Hoge Raad Eindhoven |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening Eindhoven|
+| Citeertitel               | Algemene Plaatselijke Verordening Eindhoven|
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Prime, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Eindhoven, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Prime.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Eindhoven.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
@@ -119,7 +119,7 @@ celstraf.
 
 4. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken, zonder dat hier toestemming is voor gegeven vanuit staff (denk hierbij aan het gebruik van sheets en andere onderlinge zaken) hierbij geldt de straf van lid 3. Eigenaren van externe discords waarin meta-gaming voorkomt, zullen een straf ontvangen volgens de 7e categorie.
 
-5. Wanneer je met meerdere mensen die op Prime spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel die aangeduid zijn in lid 3
+5. Wanneer je met meerdere mensen die op Eindhoven spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel die aangeduid zijn in lid 3
 
 6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 
@@ -130,7 +130,7 @@ celstraf.
 1. Bij het aanmaken van je personage dient je kleding veranderd te worden. Je mag niet dus niet met de starters kleding de server betreden. Verder dien je ervoor te zorgen dat je karakter er realistisch uitziet, armen bij de outfit kloppen en er geen lichaamsdelen ontbreken bij jouw personage.
 2. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep.
 3. Hij/zij die als niet ambtenaar kleding draagt van één van de overheidsbanen is verboden, tenzij er een goede roleplay aan vast zit, welke goedgekeurd is door een stafflid
-4. Officiële kleding verstrekt vanuit Prime bedoeld voor specifieke groeperingen mag niet door anderen gebruikt worden of als starters kleding gekozen worden, tenzij hier een sterke roleplay aan verbonden is.
+4. Officiële kleding verstrekt vanuit Eindhoven bedoeld voor specifieke groeperingen mag niet door anderen gebruikt worden of als starters kleding gekozen worden, tenzij hier een sterke roleplay aan verbonden is.
 
    *Mocht staff dit zien zal hij/zij hierop een mondelinge waarschuwing geven om dit aan te passen, mocht dit niet gedaanw orden zal er een straf uitgedeeld worden volgens de 1e categorie.
 
@@ -183,7 +183,7 @@ celstraf.
 ### Artikel 10 - Belediging
 
 1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van een ban volgens de 7e categorie. Dit is ook van kracht op steam-, discord- en karakternaam.
-2. Het is tevens niet toegestaan om in de Prime erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
+2. Het is tevens niet toegestaan om in de Eindhoven erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
 3. Op lid 1 geldt een uitzondering voor het schelden met hedendaagse relevante ziektes, bij de eerste keer zal dat bestraft worden doormiddel van een ban van twee weken. Bij de tweede keer zal hij/zij bestraft worden met 3 maanden ban, en derde keer zal het een permanente verbanning zijn.
 
 ### Artikel 11 - Overvallen & Oplichten
@@ -245,12 +245,12 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 
 ### Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties
 
-1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Prime.
+1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Eindhoven.
 2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang.
 3. Een voorwaarde voor het samenwerken tussen criminele organisaties, is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurt tijdens het witwassen van geld.
 4. Bij een samenwerking mogen er maximaal 2 gangs met een limiet van 20 man samenwerken. Alleen personen met een rang van de (officiële groep) criminele organisatie kunnen in dit geval meedoen.
 5. Bij een zogeheten "politie inval" is het toegestaan voor de gangs om met maximaal 2 groepen en 25 man samen te mogen werken. Hier mogen dus 5 personen meer bij aanwezig zijn.
-6. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Prime Discord.
+6. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Eindhoven Discord.
 7. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen combat gedrag in plaats van roleplay, teveel warnings, etc.), zal superadmin+ beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
 ### Artikel 15 - Ontsnappen uit het cellencomplex
@@ -324,7 +324,7 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
 2. De verhuur van sleutels voor loodsen is toegestaan.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
-4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Prime met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
+4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Eindhoven met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
 5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
 
 *Bij overtreding zal er gestraft worden volgens de 3e categorie. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens de 5de categorie.
@@ -397,7 +397,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Bijlage 1
 
-![bijlage-1](https://Prime.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
+![bijlage-1](https://Eindhoven.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
 
 ### Bijlage 2
 
@@ -409,4 +409,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Prime, opgetekend door Raytrix, te Prime.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Eindhoven, opgetekend door Raytrix, te Eindhoven.

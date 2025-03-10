@@ -1,17 +1,17 @@
-site_name: Prime - Wet en Regels
+site_name: Eindhoven - Wet en Regels
 copyright: Deze website is mede mogelijk gemaakt door Raytrix
 # Repository
-repo_url: 'https://github.com/RaytrixDev/Prime-APV'
-repo_name: 'Prime-APV'
+repo_url: 'https://github.com/RaytrixDev/Eindhoven-APV'
+repo_name: 'Eindhoven-APV'
 extra:
   social:
     - icon: fontawesome/brands/discord 
-      link: https://discord.gg/prm
+      link: https://discord.gg/ehrp
 theme:
   language: nl
   name: material
-  logo: assets/Prime.png
-  favicon: assets/Prime.png
+  logo: assets/Eindhoven.png
+  favicon: assets/Eindhoven.png
   features:
     - header.autohide
   palette: 
